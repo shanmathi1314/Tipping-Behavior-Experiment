@@ -52,7 +52,7 @@ More impactful strategies may include:
 
 ## Academic Context
 
-This project was completed as part of **BA 830 (Business Analytics)** at **Boston University** as a team-based academic research project.
+This project was completed as part of **BA 830 (Business Analytics)** at **Boston University** as a team-based academic project.
 
 ## Team Members
 
