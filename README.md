@@ -45,11 +45,6 @@ More impactful strategies may include:
 - Interface and UX design improvements
 - A/B testing different checkout experiences
 
-## Files in This Repository
-
-- `Tipping_Behavior_Experiment.ipynb` — data cleaning, analysis, and modeling  
-- `README.md` — project overview  
-
 ## Academic Context
 
 This project was completed as part of **BA 830 (Business Analytics)** at **Boston University** as a team-based academic project.
